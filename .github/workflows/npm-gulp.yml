@@ -1,4 +1,5 @@
-name: NodeJS with Gulp
+- name: Install Gulp
+  run: npm install gulp
 
 on: [push, pull_request]
 
